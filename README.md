@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aniket Nandi
-**A passionate Backend Developer || Problem Solver || Full Stack Developer from India**
+**Aspiring Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
 Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
