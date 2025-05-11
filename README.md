@@ -5,11 +5,7 @@ Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or An
 
 - 🔭 **I’m currently working on:** Blog Application
 - 🌱 **I’m currently learning:** Backend Development
-- 👯 **I’m looking to collaborate on:** Backend Projects
-- 🤔 **I’m looking for help with:**
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aniketnandi11@gmail.com
-- ⚡ **Fun fact:** I love Tech and Tech loves me
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aniket040504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
