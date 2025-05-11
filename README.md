@@ -1,4 +1,7 @@
-# 💫 Hi 👋, I'm Aniket Nandi
+<div align="center">
+  <b> 💫 Hi 👋, I'm Aniket Nandi </b>
+</div>
+                        
 **Aspiring Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
 Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
