@@ -1,6 +1,4 @@
-<div align="center">
-  <b> 💫 Hi 👋, I'm Aniket Nandi </b>
-</div>
+# 💫 Hi 👋, I'm Aniket Nandi
                         
 **Aspiring Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
