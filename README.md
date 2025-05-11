@@ -8,8 +8,7 @@ Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** aniketnandi11@gmail.com
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aniket040504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=Aniket040504&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniketnandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-nandi-81a97924a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Informal_Buffalo_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketnandi11@gmail.com) 
