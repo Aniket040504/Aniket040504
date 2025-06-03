@@ -4,7 +4,7 @@
 
 Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Blog Application
+- 🔭 **I’m currently working on:** Chat Application
 - 🌱 **I’m currently learning:** Backend Development
 - 📫 **How to reach me:** aniketnandi11@gmail.com
 
