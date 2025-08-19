@@ -4,8 +4,8 @@
 
 Email Me 👉 ✉️ **aniketnandi11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Chat Application
-- 🌱 **I’m currently learning:** Backend Development
+- 🔭 **I’m currently working on:** Budget Tracking Application
+- 🌱 **I’m currently learning:**  Go, and React Js
 - 📫 **How to reach me:** aniketnandi11@gmail.com
 
 ## 🏆 GitHub Trophies
